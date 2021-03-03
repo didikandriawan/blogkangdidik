@@ -12,6 +12,5 @@ if(!sessionStorage.ef&&new Date().getHours()>=2&&new Date().getHours()<=6){
             }
         })
     }
-    AB('keydown'); 
-    AB('mousedown');
+
 }
